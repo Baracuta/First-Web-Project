@@ -60,4 +60,4 @@ Feel free to reach out if you have any questions or if you'd like to book me as 
 This website was created using chatGPT, Github, Visual Studio Code, CSS, and Javascript
 
 ## Sketch
-![20231028_141020](https://github.com/Baracuta/My-first-web-Project/assets/136645536/82bff0b2-ce6d-422e-8ffe-e9b493a87b77)
+![20231028_141020](https://github.com/Baracuta/My-first-web-Project/assets/136645536/82bff0b2-ce6d-422e-8ffe-e9b493a87b77)# First-Web-Project
